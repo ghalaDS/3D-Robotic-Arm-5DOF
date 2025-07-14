@@ -64,7 +64,6 @@ This rendered image shows the full structure of the 5-DOF robotic arm, including
 
 ## Files
 
-- Tinkercad project link 
 - Design screenshots
 - STL/OBJ files for physical printing
 
@@ -76,3 +75,12 @@ This rendered image shows the full structure of the 5-DOF robotic arm, including
 - Robotic arm configuration (5-DOF)  
 - 3D modeling and assembly logic  
 - Foundation for physical prototyping and control
+
+---
+
+## Project Link
+
+You can view and explore the full 3D model on Tinkercad using the link below:
+
+[Open Tinkercad Project – "Amazing Bojo"](https://www.tinkercad.com/things/6oCUEviGiBb-amazing-bojo?sharecode=yeGtWxOn6CTbEsUnJwOAo3cOtaH7sCfz-UhDcoroGns)
+
