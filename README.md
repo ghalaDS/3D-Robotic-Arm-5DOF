@@ -55,7 +55,7 @@ This model can be used as a foundation for:
 
 #### 5-DOF Robotic Arm – Tinkercad Render
 
-<img src="./5-DOF Robotic Arm.png" alt="Robotic Arm Render" width="300"/>
+<img src="./5-DOF Robotic Arm.png" alt="Robotic Arm Render" width="370"/>
 
 This rendered image shows the full structure of the 5-DOF robotic arm, including the rotating base, three main links, hinge-style joints, and the end-effector gripper. The color scheme — red (links), black (base), and silver (joints and gripper) — highlights each component clearly within the model.
 
